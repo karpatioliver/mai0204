@@ -1,0 +1,9 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2020/08/26/18/15/cat-5520233__340.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+  
+    height: 100vh;
+    background-size: 250px;
+    background-position: 100% 0%;
+  }

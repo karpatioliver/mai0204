@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+  }
+
+  img {
+    width: 400px;
+    height: 380px;
+    border: solid 5px darkred;
+    display: block;
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  #buza{
+    padding: 5px;
+    border: thin solid grey;
+  }
+  
+  figure {
+    text-align: center;
+  }
+
+  figcaption 
+  {
+    font-style: italic;
+  }
+
+  #img01 {
+    /*1.a feladat*/
+  border-style:dashed;
+    /*2.a feladat*/
+    border-radius: 50%;
+  }
+  
+  #img02 {
+    /*1.b feladat*/
+  border:solid orange 3px ;
+    /*2.b feladat*/
+  border-radius: 25px;
+    /*3. feladat*/
+  margin-left: 20px; ;
+  margin-right: 20px;
+  }
+  
+  #img03 {
+    /*1.c feladat*/
+  border: double rgb(51, 51, 170) 7px;
+    /*2.c feladat*/
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  }
